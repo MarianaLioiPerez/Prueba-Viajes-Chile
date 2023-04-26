@@ -40,7 +40,7 @@ nav{
 
 #quienes-somos{
     height: 400px;
-    margin-top: 30px !important;
+    margin-top: 50px !important;
 }
 
 h2{
@@ -61,7 +61,7 @@ h2{
 
 #destacado{
     height: 400px;
-    margin-bottom: 80px;
+    margin-bottom: 110px;
 }
 
 .card-body{
@@ -81,3 +81,23 @@ h2{
 .card-text{
     font-weight: 300;
 }
+
+
+/* FORMULARIO */
+
+
+
+h3{
+    color: #ffff;
+    font-size: 14pt;
+    font-weight: 300;
+}
+
+#formulario{
+    height: 440px;
+}
+
+.btn-custom{
+    color: #ffff;
+}
+
