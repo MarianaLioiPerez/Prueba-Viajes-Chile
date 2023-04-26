@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: black;
 }
 
 
@@ -26,6 +27,31 @@ nav{
 }
 
 
+/* CARRUSEL */
+
+
+
 .carousel-item {
-    height: 730px !important;
+    height: 735px !important;
+}
+
+
+/* QUIENES SOMOS */
+
+#quienes-somos{
+    height: 400px;
+    margin-top: 30px !important;
+}
+
+h2{
+    color: #ffff;
+    font-weight: 400;
+    font-size: 20pt;
+}
+
+.parrafo{
+    font-size: 10pt;
+    font-weight: 300;
+    color: #ffff;
+    text-align: left;
 }
