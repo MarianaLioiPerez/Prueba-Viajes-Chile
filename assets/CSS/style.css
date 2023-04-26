@@ -55,3 +55,29 @@ h2{
     color: #ffff;
     text-align: left;
 }
+
+
+/* TARJETAS */
+
+#destacado{
+    height: 400px;
+    margin-bottom: 80px;
+}
+
+.card-body{
+    text-align: left;
+    background-color:#0dcaf0 ;
+    color: #ffff;
+}
+
+.foto2{
+  height: 190px !important;
+}
+
+.card-title{
+    font-weight: 400;
+}
+
+.card-text{
+    font-weight: 300;
+}
