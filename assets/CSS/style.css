@@ -1,0 +1,31 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* BARRA NAVEGACIÓN */
+.navbar-brand svg {
+       height: 30px;  
+       width: 100%;  
+}
+
+.marca-barra {
+    font-size: 16pt;
+    font-weight: 400;
+}
+
+
+.nav-link{
+    color: #ffff;
+    font-weight: 300;
+}
+
+nav{
+    color: #ffff;
+}
+
+
+.carousel-item {
+    height: 730px !important;
+}
